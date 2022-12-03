@@ -2,6 +2,7 @@ package com.bridglabz;
 import java.util.Random;
 public class GamblingGame {
     public static void main(String[] args) {
+        System.out.println("Welcome To Gambling Game");
         int money = 100;
         int playCount = 0;
         int wonCount = 0;
